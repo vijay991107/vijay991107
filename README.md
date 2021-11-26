@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vijay991107
-- 👀 I’m interested in front hand development
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning backend side.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
